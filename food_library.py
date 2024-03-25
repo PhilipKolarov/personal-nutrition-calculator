@@ -29,6 +29,7 @@ food_library = {
     "Chicken Leg Quater M" : [331, 37.1, 0, 19.2, 5.3],
     "Burger": [373, 22.2, 3.6, 29.7, 18.8],
     "Pork Chop": [385, 40, 0, 23, 7.1],
+    "Pork Loin Chop": [276, 30, 0, 16, 6],
     "Hunter's Sausage": [140, 6.3, 1.5, 12.3, 5.2],
     "Vanilla Milk": [72, 3.4, 11.1, 1.5, 0.9]
 }
