@@ -17,6 +17,7 @@ food_library = {
     "Protein Drink": [219, 34.8, 18.2, 0.7, 0.3],
     "Sunflower Seeds 50g": [326, 12, 3.8, 28.2, 2.4],
     "Peanuts 60g": [155, 14.7, 3.8, 28.2, 2.4],
+    "Almonds Roasted 35g": [210, 7.8, 6, 15.9, 1.9],
     "Rice Cake": [35, 0.7, 7, 0.3, 0],
     "Peanut Butter tsp": [35, 1.4, 1, 2.7, 0.5],
     "Wine 250ml": [203, 0.2, 6.5, 0, 0],
