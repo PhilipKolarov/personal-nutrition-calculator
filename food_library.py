@@ -36,6 +36,7 @@ food_library = {
     "Hunter's Sausage": [140, 6.3, 1.5, 12.3, 5.2],
     "Vanilla Milk": [72, 3.4, 11.1, 1.5, 0.9]
 }
+
 def print_food_library():
     for key, value in food_library.items():
         print(f"{key}: {value[0]}kcal, {value[1]}g protein, {value[2]}g carbs, {value[3]}g fat, {value[4]}g saturated fat")
