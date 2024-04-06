@@ -19,6 +19,7 @@ food_library = {
     "Peanuts 60g": [155, 14.7, 3.8, 28.2, 2.4],
     "Almonds Roasted 35g": [210, 7.8, 6, 15.9, 1.9],
     "Rice Cake": [35, 0.7, 7, 0.3, 0],
+    "Rice 1/3 Cup": [68, 1.4, 14.9, 0.1, 0],
     "Peanut Butter tsp": [35, 1.4, 1, 2.7, 0.5],
     "Wine 250ml": [203, 0.2, 6.5, 0, 0],
     "Apple": [72, 0.3, 19, 0.2, 0],
@@ -36,6 +37,7 @@ food_library = {
     "Hunter's Sausage": [140, 6.3, 1.5, 12.3, 5.2],
     "Vanilla Milk": [72, 3.4, 11.1, 1.5, 0.9]
 }
+
 
 def print_food_library():
     for key, value in food_library.items():
