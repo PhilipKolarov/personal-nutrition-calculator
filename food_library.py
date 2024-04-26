@@ -15,7 +15,7 @@ food_library = {
     "Brown Toast": [74, 2.3, 14.5, 0.4, 0.1],
     "Protein Bar": [169, 22.5, 12.9, 4.9, 2.8],
     "Protein Drink": [219, 34.8, 18.2, 0.7, 0.3],
-    "Born Winner Flapjack": [401, 5.9, 49, 20, 7.6],
+    "Born Winner Flapjack Oats": [401, 5.9, 49, 20, 7.6],
     "Sunflower Seeds 50g": [326, 12, 3.8, 28.2, 2.4],
     "Peanuts 60g": [155, 14.7, 3.8, 28.2, 2.4],
     "Almonds Roasted 35g": [210, 7.8, 6, 15.9, 1.9],
@@ -23,6 +23,7 @@ food_library = {
     "Rice 1/3 Cup": [68, 1.4, 14.9, 0.1, 0],
     "Peanut Butter tsp": [35, 1.4, 1, 2.7, 0.5],
     "Wine 250ml": [203, 0.2, 6.5, 0, 0],
+    "Beer Pirinsko": [175, 2, 20.5, 0, 0],
     "Apple": [72, 0.3, 19, 0.2, 0],
     "Carrot 100g": [41, 0.9, 10, 0.2, 0],
     "Potato 100g": [93, 2.5, 21, 0.1, 0],
@@ -38,7 +39,6 @@ food_library = {
     "Hunter's Sausage": [140, 6.3, 1.5, 12.3, 5.2],
     "Vanilla Milk": [72, 3.4, 11.1, 1.5, 0.9]
 }
-
 
 def print_food_library():
     for key, value in food_library.items():
