@@ -15,6 +15,7 @@ food_library = {
     "Brown Toast": [74, 2.3, 14.5, 0.4, 0.1],
     "Protein Bar": [169, 22.5, 12.9, 4.9, 2.8],
     "Protein Drink": [219, 34.8, 18.2, 0.7, 0.3],
+    "Protein Yogurt": [158, 20, 12.6, 3, 2],
     "Born Winner Flapjack Oats": [401, 5.9, 49, 20, 7.6],
     "Sunflower Seeds 50g": [326, 12, 3.8, 28.2, 2.4],
     "Peanuts 60g": [155, 14.7, 3.8, 28.2, 2.4],
