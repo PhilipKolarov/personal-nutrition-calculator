@@ -22,6 +22,7 @@ food_library = {
     "Almonds Roasted 35g": [210, 7.8, 6, 15.9, 1.9],
     "Rice Cake": [35, 0.7, 7, 0.3, 0],
     "Rice 1/3 Cup": [68, 1.4, 14.9, 0.1, 0],
+    "Zero Sugar Flapjack": [320, 5.7, 36, 14, 5.6],
     "Hrus-hrus 60g": [246, 7.8, 45,4, 3.8, 1],
     "Peanut Butter tsp": [35, 1.4, 1, 2.7, 0.5],
     "Wine 250ml": [203, 0.2, 6.5, 0, 0],
